@@ -1,0 +1,10 @@
+*.exe
+*.pdb
+*.rdi
+*.lib
+*.obj
+*.exp
+.vs
+.vscode
+*.dmp
+*.dll
